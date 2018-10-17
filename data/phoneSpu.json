@@ -1,0 +1,135 @@
+[
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "ipad",
+        "modelId": 111,
+        "modelName": "iPad Air2"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "ipad",
+        "modelId": 109,
+        "modelName": "iPad mini4"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 766,
+        "modelName": "iPad 2017"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 1214,
+        "modelName": "iPad 2018 9.7寸"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "ipad",
+        "modelId": 120,
+        "modelName": "iPad Pro 9.7寸"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 475,
+        "modelName": "iPad Pro 12.9寸"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 1074,
+        "modelName": "iPad Pro 12.9寸 第二代"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 769,
+        "modelName": "iPad Pro 10.5寸"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "ipad",
+        "modelId": 123,
+        "modelName": "iPad Air"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "ipad",
+        "modelId": 110,
+        "modelName": "iPad mini3"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "ipad",
+        "modelId": 116,
+        "modelName": "iPad mini2"
+    },
+    {
+        "typeId": 2,
+        "brandId": 5,
+        "brandName": "小米",
+        "modelId": 2002,
+        "modelName": "MI pad 4"
+    },
+    {
+        "typeId": 2,
+        "brandId": 4,
+        "brandName": "三星",
+        "modelId": 2345,
+        "modelName": "三星 Tab S2 8寸(高通)"
+    },
+    {
+        "typeId": 2,
+        "brandId": 7,
+        "brandName": "华为",
+        "modelId": 2282,
+        "modelName": "华为 M3青春版 8英寸"
+    },
+    {
+        "typeId": 2,
+        "brandId": 33,
+        "brandName": "微软",
+        "modelId": 1432,
+        "modelName": "微软 Surface Pro3 (i5)"
+    },
+    {
+        "typeId": 2,
+        "brandId": 5,
+        "brandName": "小米",
+        "modelId": 829,
+        "modelName": "MI pad 2"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 703,
+        "modelName": "iPad mini1"
+    },
+    {
+        "typeId": 2,
+        "brandId": 1,
+        "brandName": "苹果",
+        "modelId": 502,
+        "modelName": "iPad 4"
+    },
+    {
+        "typeId": 2,
+        "brandId": 33,
+        "brandName": "微软",
+        "modelId": 2503,
+        "modelName": "微软 Surface Pro4 (M3)"
+    }
+]

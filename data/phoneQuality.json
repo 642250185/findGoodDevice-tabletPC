@@ -1,0 +1,908 @@
+[
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296161,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296162,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 304597,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 305710,
+        "productName": "95新 iPad Air2 16G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 305711,
+        "productName": "95新 iPad Air2 16G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 305713,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 302562,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 295516,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 300908,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 305708,
+        "productName": "95新 iPad Air2 16G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 305707,
+        "productName": "95新 iPad Air2 16G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 295517,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 300907,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 300892,
+        "productName": "95新 iPad Air2 64G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 301770,
+        "productName": "95新 iPad Air2 64G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 300895,
+        "productName": "95新 iPad Air2 64G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 300894,
+        "productName": "95新 iPad Air2 64G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 300896,
+        "productName": "95新 iPad Air2 64G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 300897,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 301766,
+        "productName": "95新 iPad Air2 64G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296416,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296417,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296415,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294100,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294099,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294102,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294096,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294097,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294098,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296906,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296907,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296905,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296904,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296902,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 255045,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296038,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296024,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296023,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296032,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296028,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 255148,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296033,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296036,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296042,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 296029,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294819,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294813,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 294812,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 287661,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 289371,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 289365,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 289366,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 286652,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285898,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 282127,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285819,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 282126,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285821,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285835,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285975,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285698,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285692,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285690,
+        "productName": "95新 iPad Air2 16G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 285687,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 282128,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274767,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 279799,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 279787,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 277500,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 277501,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 277497,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 277498,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274763,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274762,
+        "productName": "95新 iPad Air2 16G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274759,
+        "productName": "95新 iPad Air2 16G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274760,
+        "productName": "95新 iPad Air2 16G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274772,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274663,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274668,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274769,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274671,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274771,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274660,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274659,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274816,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274653,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274579,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274661,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274578,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274657,
+        "productName": "95新 iPad Air2 128G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 274940,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 272958,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 272964,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 272965,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 272967,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 273017,
+        "productName": "95新 iPad Air2 16G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 273025,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 271809,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 271808,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 272142,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 273024,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 271834,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 267660,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 267661,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 270562,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 248959,
+        "productName": "95新 iPad Air2 16G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 270680,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 270563,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 270679,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 259345,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 259334,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 259339,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 259335,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 259333,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 269920,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 258773,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 257217,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 257216,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 253112,
+        "productName": "95新 iPad Air2 32G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 256393,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 253198,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 253119,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 256389,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 256429,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 256428,
+        "productName": "95新 iPad Air2 16G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 256427,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 255149,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 255154,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 255042,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 255061,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 255043,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 255218,
+        "productName": "95新 iPad Air2 128G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 253106,
+        "productName": "95新 iPad Air2 32G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 250784,
+        "productName": "95新 iPad Air2 16G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 238604,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 250975,
+        "productName": "95新 iPad Air2 128G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 251681,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 251680,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 240113,
+        "productName": "95新 iPad Air2 16G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 239938,
+        "productName": "95新 iPad Air2 16G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 238612,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 234112,
+        "productName": "95新 iPad Air2 32G白"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 234102,
+        "productName": "95新 iPad Air2 32G金"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 230960,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 230950,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 229134,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 228219,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 228209,
+        "productName": "95新 iPad Air2 64G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 174705,
+        "productName": "95新 iPad Air2 16G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 219878,
+        "productName": "95新 iPad Air2 16G黑"
+    },
+    {
+        "brandId": 1,
+        "brandName": "ipad",
+        "productId": 209610,
+        "productName": "95新 iPad Air2 16G黑"
+    }
+]

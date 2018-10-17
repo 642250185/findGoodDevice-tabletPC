@@ -1,0 +1,26 @@
+[
+    {
+        "productId": 296161,
+        "spuName": "ipad",
+        "netword": "Wifi(iPad)",
+        "banben": "其他版本",
+        "originPrice": 2199,
+        "serverPrice": 2228
+    },
+    {
+        "productId": 296162,
+        "spuName": "ipad",
+        "netword": "Wifi(iPad)",
+        "banben": "其他版本",
+        "originPrice": 1799,
+        "serverPrice": 1828
+    },
+    {
+        "productId": 304597,
+        "spuName": "ipad",
+        "netword": "Wifi(iPad)",
+        "banben": "国行",
+        "originPrice": 1799,
+        "serverPrice": 1828
+    }
+]
